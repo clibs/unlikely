@@ -1,0 +1,9 @@
+{
+  "name": "unlikely",
+  "version": "0.0.1",
+  "repo": "visionmedia/unlikely.c",
+  "description": "Branch prediction macros for gcc",
+  "keywords": ["unlikely", "branch", "prediction", "macro"],
+  "license": "MIT",
+  "src": ["unlikely.h"]
+}
