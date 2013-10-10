@@ -5,7 +5,11 @@
 
 ## Installation
 
-    $ cpm install visionmedia/unlikely.c
+  Install with [clib](https://github.com/clibs/clib):
+
+```
+$ clib install clibs/file
+```
 
 ## API
 
